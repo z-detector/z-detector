@@ -17,7 +17,6 @@ python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.w
 ```
  де yolov3_last.weights тут - https://easyupload.io/0qo76q
 
-
 ### 2. Як підключити камеру
  В строку 
 
@@ -25,7 +24,6 @@ python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.w
 cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
 ```
 де rtsp://192.168.1.2:8080/out.h264 адреса вашої камери
-
 
 ### 3. Як тренувати
 
@@ -40,7 +38,6 @@ cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
  Лінк на датасет:
 
  https://easyupload.io/hihog3
- 
  
 ### Найближчі пдейти
  * Обновлення датасету
