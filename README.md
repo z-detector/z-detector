@@ -11,5 +11,15 @@ python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.w
 ```
 
 
-### 2. 
+### 2. Як підключити камеру
 
+### 3. Як тренувати
+
+ https://github.com/AlexeyAB/darknet
+
+### 4. Датасет
+ 
+ Датасет взятий з відкритих джерел, а саме з ютубу
+ Список буде наведений пізніше
+ Лінк на датасет 
+ https://easyupload.io/hihog3
