@@ -15,7 +15,7 @@
 ```
 python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.weights
 ```
- де yolov3_last.weights тут - https://easyupload.io/0qo76q
+ де yolov3_last.weights тут - https://easyupload.io/1vngmj
 
 ### 2. Як підключити камеру
  В строку наведену нижче - пишем
