@@ -18,7 +18,7 @@ python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.w
  де yolov3_last.weights тут - https://easyupload.io/0qo76q
 
 ### 2. Як підключити камеру
- В строку 
+ В строку наведену нижче - пишем
 
 ```
 cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
@@ -39,7 +39,7 @@ cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
 
  https://easyupload.io/hihog3
  
-### Найближчі пдейти
+### Найближчі апдейти
  * Обновлення датасету
  * Обновлення моделі
  * Буде додана можливість запускати по списку камер
