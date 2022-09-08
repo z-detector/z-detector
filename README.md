@@ -24,7 +24,7 @@
 python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.weights
 ```
    де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj
-   /home/user/ - замінаємо на свою директорію
+   /home/user/ - заміняємо на свою директорію
 
 
 
