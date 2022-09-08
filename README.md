@@ -10,12 +10,22 @@
 
 
 ### 1. Як використовувати 
- В терміналі виконуємо:
+ * На операційній системі з ядром лінукс (Ubuntu, Debian, інші..) виконуємо в терміналі:
+ ```
+ pip install -r requirements.txt
+ ```
+ Щоб встановити необхідні пакети
+ 
+ 
+ * далі в терміналі виконуємо:
 
 ```
 python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.weights
 ```
- де yolov3_last.weights тут - https://easyupload.io/1vngmj
+
+ де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj
+ /home/user/ - замінаємо на свою директорію
+
 
 ### 2. Як підключити камеру
  В строку наведену нижче - пишем
