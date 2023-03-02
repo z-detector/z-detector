@@ -23,7 +23,7 @@
 ```
 python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.weights
 ```
-   де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj
+   де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj (лінки через якийсь час стають не активні, запитуємо на пошту)
    /home/user/ - заміняємо на свою директорію
 
 
@@ -48,7 +48,7 @@ cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
  
  Лінк на датасет:
 
- https://easyupload.io/hihog3
+ https://easyupload.io/hihog3 (лінки через якийсь час стають не активні, запитуємо на пошту)
  
 ### 5. Хибні спрацювання
 
