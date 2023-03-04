@@ -80,4 +80,5 @@ parser.add_argument('--conf-thres', type=float, default=0.1, help='object confid
  
 ### 7. Питання, побажання, запити на співпрацю
 Пишем сюди z_detector@yahoo.com
+
 Можу допомогти з даними, навчанню та використанню нейронних мереж на хардвері
