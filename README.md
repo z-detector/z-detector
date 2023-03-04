@@ -49,6 +49,7 @@ cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
  Лінк на датасет:
 
  https://easyupload.io/hihog3 (лінки через якийсь час стають не активні, запитуємо на пошту)
+ https://www.dropbox.com/s/xva5jbdknlay9wd/1_img.png?dl=0
  
 ### 5. Хибні спрацювання
 
