@@ -23,10 +23,10 @@
 ```
 python3 detect.py --cfg a1.cfg --weights a1.weights
 ```
-   де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj
-   (лінки через якийсь час стають не активні, запитуємо на пошту)
+   де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - [Link](https://www.dropbox.com/s/ne2uau2a85edn69/weights.zip?dl=0)
    
-   /home/user/ - заміняємо на свою директорію
+   (лінки через якийсь час стають не активні, запитуємо на пошту)
+
 
 
 
