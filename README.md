@@ -21,7 +21,7 @@
  * далі в терміналі виконуємо:
 
 ```
-python3 detect.py --cfg /home/user/yolov3.cfg --weights /home/user/yolov3_last.weights
+python3 detect.py --cfg a1.cfg --weights a1.weights
 ```
    де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - https://easyupload.io/1vngmj
    (лінки через якийсь час стають не активні, запитуємо на пошту)
