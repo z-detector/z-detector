@@ -23,7 +23,7 @@
 ```
 python3 detect.py --cfg a1.cfg --weights a1.weights
 ```
-   де файл навченої нейронної мережі yolov3_last.weights скачуємо звідси - [Link](https://www.dropbox.com/s/ne2uau2a85edn69/weights.zip?dl=0)
+   де файл навченої нейронної мережі a1.weights скачуємо звідси - [Link](https://www.dropbox.com/s/ne2uau2a85edn69/weights.zip?dl=0)
    
    (лінки через якийсь час стають не активні, запитуємо на пошту)
 
@@ -54,6 +54,8 @@ cap1 = cv2.VideoCapture("rtsp://192.168.1.2:8080/out.h264")
  
  (лінки через якийсь час стають не активні, запитуємо на пошту)
 
+ [labelImg](https://github.com/heartexlabs/labelImg)
+ прога для конвертації між типами та розмітки даних
  
 ### 5. Хибні спрацювання
 
